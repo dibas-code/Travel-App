@@ -65,13 +65,13 @@ const Footer = () => {
               {/* social handles */}
               <div>
                 <div className="flex items-center gap-3 mt-6">
-                  <a href="#">
+                  <a href="https://www.instagram.com/dibas.neupane.752/">
                     <FaInstagram className="text-3xl" />
                   </a>
-                  <a href="#">
+                  <a href="https://www.facebook.com/dibas.neupane.752">
                     <FaFacebook className="text-3xl" />
                   </a>
-                  <a href="#">
+                  <a href="https://www.linkedin.com/in/dibas-neupane-5018432b5/">
                     <FaLinkedin className="text-3xl" />
                   </a>
                 </div>
